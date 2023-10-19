@@ -9,7 +9,7 @@ public class Main {
 		System.out.println("hola Nora");
 		System.out.println("Hola mama");
 		System.out.println("Hola Davilillo");
-		System.out.println("Hola papá");
+		System.out.println("Hola papa");
 		
 
 	}
